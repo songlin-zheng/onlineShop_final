@@ -29,7 +29,7 @@ public class ApplicationConfig {
 		dataSource.setDriverClassName("com.mysql.jdbc.Driver");
 		dataSource.setUrl("jdbc:mysql://laiproject-instance.cx9p68epsfbv.us-east-2.rds.amazonaws.com:3306/ecommerce?serverTimezone=UTC");
 		dataSource.setUsername("admin");
-		dataSource.setPassword("heibai19971025");
+		dataSource.setPassword("pikachuLoveIceCream");
 
 		return dataSource;
 	}
